@@ -1,16 +1,18 @@
 ### Olá, seja bem-vindo(a)!
 
-<!--
-**ogbeni-leonardo/ogbeni-leonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o [Léo](https://www.linkedin.com/in/ogbeni-leonardo/) e aqui estão algumas coisas sobre mim:
 
-Here are some ideas to get you started:
+- Sou apaixonado por tecnologia e também por gatos :joy_cat:;
+- Estou atualmente estudando desenvolvimento web;
+- Sou um curioso por coisas que envolvem o universo de um modo geral;
+- Talvez eu seja um alien :alien:, rsrs;
+- Pronomes: Ele/Dele.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40/>
+          
+### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=40 height=40 style="margin: 0 20px;"/>
+          
+          
